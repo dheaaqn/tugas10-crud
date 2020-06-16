@@ -5,7 +5,7 @@
 
 <p>2. Add Data </p>
 
-![create](https://user-images.githubusercontent.com/41566487/84786188-9d1e5000-b016-11ea-83f9-8b444c75cef2.PNG
+![create](https://user-images.githubusercontent.com/41566487/84786188-9d1e5000-b016-11ea-83f9-8b444c75cef2.PNG)
 
 <p>3. Add Successed</p>
 
@@ -15,11 +15,11 @@
 
 ![update](https://user-images.githubusercontent.com/41566487/84786242-b1624d00-b016-11ea-97c5-8090a91d1f93.PNG)
 
-<p>Update Successed</p>
+<p>5. Update Successed</p>
 
 ![update-successed](https://user-images.githubusercontent.com/41566487/84786272-b9ba8800-b016-11ea-9f67-c6c2d0d3b5e1.PNG)
 
-<p>Delete Data</p>
+<p>6. Delete Data</p>
 
 ![delete](https://user-images.githubusercontent.com/41566487/84786288-c17a2c80-b016-11ea-9b86-b63a2b3adf74.PNG)
 
