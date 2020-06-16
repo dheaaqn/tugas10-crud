@@ -1,5 +1,17 @@
 ## Screenshot of Website
+<p>1. Show Data</p>
 ![show](https://user-images.githubusercontent.com/41566487/84785903-3f8a0380-b016-11ea-9784-3017e8ef1614.PNG)
+<p>2. Add Data </p>
+![create](https://user-images.githubusercontent.com/41566487/84786188-9d1e5000-b016-11ea-83f9-8b444c75cef2.PNG)
+<p>3. Add Successed</p>
+![create-successed](https://user-images.githubusercontent.com/41566487/84786221-a7404e80-b016-11ea-9a5c-d9a403c682b4.PNG)
+<p>4. Update Data </p>
+![update](https://user-images.githubusercontent.com/41566487/84786242-b1624d00-b016-11ea-97c5-8090a91d1f93.PNG)
+<p>Update Successed</p>
+![update-successed](https://user-images.githubusercontent.com/41566487/84786272-b9ba8800-b016-11ea-9f67-c6c2d0d3b5e1.PNG)
+<p>Delete Data</p>
+![delete](https://user-images.githubusercontent.com/41566487/84786288-c17a2c80-b016-11ea-9b86-b63a2b3adf74.PNG)
+
 
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
